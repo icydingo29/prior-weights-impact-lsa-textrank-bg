@@ -20,6 +20,7 @@ build/
 
 # Claude temp files
 tmpclaude-*/
+tmpclaude-*
 
 # Data (CoNLL files not to be shared)
 data/raw/CoNLL/

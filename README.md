@@ -379,11 +379,11 @@ Contributions are welcome! Areas for improvement:
 
 This project is licensed under the MIT License — see [LICENSE.md](LICENSE.md) for details.
 
-## Author
+## Authors
 
 **Developed as a Master's coursework project** in Natural Language Processing, focusing on Bulgarian language processing and comparative algorithmic analysis of text summarization methods.
 
-## Contact & References
+## Documentation
 
 For questions or detailed information about methodology, refer to the accompanying project documentation and presentations included in `/documentation/`.
 
