@@ -1,0 +1,40 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Claude temp files
+tmpclaude-*/
+
+# Data (CoNLL files not to be shared)
+data/raw/CoNLL/
+
+# Evaluation results based on proprietary data
+evaluation/chatgpt/
+evaluation/system/
+
+# OS files
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Editor temp files
+*.swp
+*.swo
+*~
+.idea/
