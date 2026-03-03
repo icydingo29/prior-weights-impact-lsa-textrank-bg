@@ -39,3 +39,7 @@ Thumbs.db
 *.swo
 *~
 .idea/
+
+# Other temp files
+tr.txt
+lsa.txt
