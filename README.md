@@ -196,8 +196,8 @@ F1 = 2 × (Precision × Recall) / (Precision + Recall)
 
 1. **Clone the repository** (if on GitHub)
    ```bash
-   git clone <repository-url>
-   cd Project
+   git clone https://github.com/icydingo29/prior-weights-impact-lsa-textrank-bg
+   cd prior-weights-impact-lsa-textrank-bg
    ```
 
 2. **Create virtual environment** (recommended)
